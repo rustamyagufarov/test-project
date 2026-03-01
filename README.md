@@ -1,16 +1,14 @@
-# Test Project
+# Test Project 🚀
 
-This is my first GitHub project.
+## 📌 About
+Learning GitHub step by step.
 
-## About
-
-I am learning GitHub from phone.
-
-## Files
-
+## 📂 Files
 - test.txt
 - branch.txt
 
-## Author
-
+## 👤 Author
 Rustam
+
+## ✅ Status
+In progress
